@@ -1,1 +1,1 @@
-# My Raspberry Pi Project
+# Raspberry Pi Project
